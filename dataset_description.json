@@ -1,0 +1,17 @@
+{
+    "Name": "Mapping of blood flow and slow speckle tissue dynamics using laser speckle contrast imaging",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Laser speckle contrast imaging (LSCI) is a wide-field optical technique commonly used to monitor cerebral blood flow (CBF). Recently, we have discovered that besides the fast-decorrelating signals from blood flow, LSCI can also detect slow-decorrelating signals associated with cellular activity. The ability to image these signals has significant implications for various research areas such as ischemic stroke, as it enables longitudinal monitoring of both vascular and cellular dynamics, offering new biomarkers for tissue viability, injury progression, and therapeutic response. Here, we demonstrated that epi-illumination LSCI enables the mapping of both slow speckle dynamics (SSD) for evaluating cellular dynamics and traditional fast speckle dynamics (FSD) for evaluating CBF. We found that SSD signals are much more evident with epi-illumination than with conventional oblique illumination LSCI. Using mouse models of ischemic stroke, including both permanent and transient occlusion of the distal middle cerebral artery (dMCA), we demonstrated the system\u2019s ability to track stroke progression from minutes to days post-stroke. This study establishes a powerful, label-free imaging tool for investigating both cellular and vascular health during stroke core evolution.",
+    "DatasetType": "raw",
+    "Authors": null,
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
